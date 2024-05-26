@@ -48,7 +48,7 @@ nav ul li {
     background-color: var(--navcolor);
     margin: 0.5rem;
     margin-left: 5%;
-    margin-right: 0;
+    margin-right: 0;  
     padding: 2%;
     height: 80%;
     border-radius: 1rem;
@@ -122,6 +122,13 @@ section {
 .spacer {
     height: 5rem;
  }
+
+
+.text {
+  vertical-align: middle;
+ }
+
+
 
 .image {
   margin: 1rem;
