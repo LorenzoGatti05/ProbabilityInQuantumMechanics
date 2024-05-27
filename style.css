@@ -105,6 +105,25 @@ h3 {
     font-weight: normal;
   }
 
+p {
+  font-size: 1.5rem;
+ }
+
+
+
+h3 ul{
+  margin: 0;
+}
+
+
+h3 ul li{
+  color: rgb(60, 60, 60);
+    font-size: 1.5rem;
+    margin: 1rem;
+    padding: 0;
+    text-align: left;
+    font-weight: normal;
+}
 
 section {
     margin: 10%;
@@ -140,7 +159,7 @@ section {
  img {
   border-radius: 3rem;
   }
-  
+
 
 footer {
     position: fixed;
