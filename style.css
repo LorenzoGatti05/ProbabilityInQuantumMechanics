@@ -137,6 +137,11 @@ section {
   display: flex;
  }
 
+ img {
+  border-radius: 3rem;
+  }
+  
+
 footer {
     position: fixed;
     left: 0;
